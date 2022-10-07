@@ -1,2 +1,3 @@
-let john = "bassist"
-john = "web developer"
+let john = "bassist";
+john = "web developer";
+
